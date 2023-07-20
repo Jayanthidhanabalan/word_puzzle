@@ -1,0 +1,10 @@
+[ 
+    {"name": "Audi", "hint":"Never Follow", "complexity": 2}, 
+    {"name": "Honda","hint":"The Power of Dreams", "complexity": 1}, 
+    {"name": "Toyota", "hint":"Moving forward","complexity": 2},
+    {"name": "Renault", "hint":"Passion for Life","complexity": 2},
+    {"name": "Skoda", "hint":"Simply Clever","complexity": 1},
+    {"name": "Mahindra", "hint":"Live Young, Live Free","complexity": 3},
+    {"name": "Tata", "hint":"More car per car","complexity": 3},
+    {"name": "Jaguar", "hint":"The Art of Performance","complexity": 2}
+  ]

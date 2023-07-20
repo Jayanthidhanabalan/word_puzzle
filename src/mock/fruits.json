@@ -1,0 +1,5 @@
+[ 
+  {"name": "Avocado", "hint":"Nature’s creamy green superfood", "complexity": 3}, 
+  {"name": "Tomato","hint":"Juicy, red and bursting with goodness", "complexity": 2}, 
+  {"name": "Spinach", "hint":"Popeye’s secret to strength and vitality","complexity": 2}
+]

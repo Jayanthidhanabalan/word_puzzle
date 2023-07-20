@@ -1,0 +1,11 @@
+[ 
+    {"name": "Philippines", "hint":"The Pearl of the Orient Seas", "complexity": 3}, 
+    {"name": "Thailand","hint":"Land of Smiles", "complexity": 2}, 
+    {"name": "Mongolia", "hint":"Land of Blue Sky","complexity": 2}, 
+    {"name": "Japan", "hint":"Land of the Rising Sun","complexity": 1}, 
+    {"name": "Indonesia", "hint":"The Emerald of the Equator","complexity": 3}, 
+    {"name": "Singapore", "hint":"The Lion City","complexity": 3}, 
+    {"name": "Myanmar","hint":"Land of the Golden Pagodas", "complexity": 2} ,
+    {"name": "Iraq", "hint":"Cradle of Ancient Civilization","complexity": 2},
+    {"name": "Egypt", "hint":"The Gift of the Nile","complexity": 1}
+  ]

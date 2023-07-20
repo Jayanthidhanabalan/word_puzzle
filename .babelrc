@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "cwd": "babelrc",
+                "root": [
+                    "./src"
+                ],
+                "extensions": [
+                    ".js",
+                    ".json"
+                ],
+                "alias": {
+                    "_screens": "./src/screens",
+                    "_components": "./src/components",
+                    "_mock": "./src/mock",
+                    "_action":"./src/redux"
+                }
+            }
+        ]
+    ],
+    "presets": [
+        "@babel/preset-react"
+    ]
+}
